@@ -1,0 +1,27 @@
+# Tabuada
+import time
+
+n = int(input("Digite um número: "))
+
+print("=" * 8)
+print(f"{n} x 1 = {n*1}")
+time.sleep(1)
+print(f"{n} x 2 = {n*2}")
+time.sleep(1)
+print(f"{n} x 3 = {n*3}")
+time.sleep(1)
+print(f"{n} x 4 = {n*4}")
+time.sleep(1)
+print(f"{n} x 5 = {n*5}")
+time.sleep(1)
+print(f"{n} x 6 = {n*6}")
+time.sleep(1)
+print(f"{n} x 7 = {n*7}")
+time.sleep(1)
+print(f"{n} x 8 = {n*8}")
+time.sleep(1)
+print(f"{n} x 9 = {n*9}")
+time.sleep(1)
+print(f"{n} x 10 = {n*10}")
+time.sleep(1)
+print("=" * 12)
